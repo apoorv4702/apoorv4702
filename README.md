@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apoorv4702
 - 👀 I’m interested in working on frontend Web Development
-- 🌱 I’m currently learning a Backend Web Development
+- 🌱 I’m currently learning Backend Web Development
 - 💞️ I’m looking to collaborate on front end Web Development
 - 📫 How to reach me- www.linkedin.com/in/apoorv4702 
 
